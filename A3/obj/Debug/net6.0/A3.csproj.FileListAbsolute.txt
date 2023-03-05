@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\bin\Debug\net6.0\A3.exe
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\bin\Debug\net6.0\A3.deps.json
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\bin\Debug\net6.0\A3.runtimeconfig.json
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\bin\Debug\net6.0\A3.dll
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\bin\Debug\net6.0\A3.pdb
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.AssemblyInfo.cs
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.dll
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\refint\A3.dll
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.pdb
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\A3.genruntimeconfig.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# дз5\A3\obj\Debug\net6.0\ref\A3.dll
